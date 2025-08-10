@@ -14,9 +14,9 @@ mkdir patch && cd patch
 git clone --depth=1 https://github.com/ryanoasis/nerd-fonts.git
 
 # clone patch-font
-git clone https://github.com/zzhaolei/patch-font.git
+git clone https://github.com/zzhaolei/fonts.git
 
-cd patch-font/patched
+cd fonts/patched
 mkdir -p tmp/patched
 cp ~/Library/Fonts/SF-Mono-* ./tmp
 ./patch-sfmono
