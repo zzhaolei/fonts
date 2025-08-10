@@ -1,5 +1,5 @@
-# patch-font
-> For my personal use only.
+# Fonts
+> For my personal use only.  
 
 ## Patched Fonts
 - [SF Mono](./patched/SFMono/)
